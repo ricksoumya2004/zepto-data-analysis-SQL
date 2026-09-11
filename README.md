@@ -1,5 +1,3 @@
-# zepto-data-analysis-SQL
-Zepto dataset analysis using Sql 
 # 🛒 Zepto E-commerce SQL Data Analysis Project
 
 ## 📌 Project Overview
